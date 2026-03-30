@@ -1,0 +1,22 @@
+# MATLAB autosave files
+*.autosave
+
+# MATLAB generated output files
+*.asv
+
+# Simulation output plots (generated at runtime)
+soc_*.png
+torque_*.png
+FTP-75.png
+NEDC.png
+engine_state.png
+
+# Simulation output data (generated at runtime)
+/RB/
+
+# MATLAB workspace / session files
+*.mat.bak
+
+# OS files
+.DS_Store
+Thumbs.db
